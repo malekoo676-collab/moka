@@ -1,0 +1,23 @@
+body{
+    background-color:#e4f6f4;
+    text-align: center;
+}
+h1{
+    color: rgb(52, 52, 98);
+}
+h3{
+    color: rgb(52, 52, 98);
+}
+button{
+    color:rgb(52, 52, 98);
+    background-color: aqua;
+    transition:0.5;
+    border: none;
+    padding: 8px 45px;
+    border-radius:5px;
+}
+button:hover{
+    background-color: red;
+    color: black;
+    transform: scale(2);
+}
